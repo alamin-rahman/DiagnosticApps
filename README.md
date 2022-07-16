@@ -1,5 +1,4 @@
 # DiagnosticApps
-https://alamin-rahman.github.io/DiagnosticApps/
 Project Name : DiagnosticApps
 Platform : Windows
 Type: Desktop 
